@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aryanapte190902@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RO8bB-93pN8prSk4JJce4NQ2lR-VzJZc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ygTIEPOEqBtjoxzYN8yhQlDm8J8jJ4YJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
