@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan190902&label=Profile%20views&color=0e75b6&style=flat" alt="aryan190902" /> </p>
 
-- 🔭 I’m currently working on **Hacktoberfest**
+- 🔭 I’m currently working on **Software/Web Development**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Data Structures, Python, C++**
+- 💬 Ask me about **Data Structures, Python, C++, JS**
 
-- 📫 How to reach me **aryanapte190902@gmail.com**
+- 📫 How to reach me **b20186@students.iitmandi.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ygTIEPOEqBtjoxzYN8yhQlDm8J8jJ4YJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1t1f9wHGYG26CO6kI3_LW4_nHfFXjTtNO?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
