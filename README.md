@@ -1,28 +1,43 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://www.linkedin.com/in/aryan-apte/)
-<h1 align="center">Hi 👋, I'm Aryan Apte</h1>
-<h3 align="center">Student of IIT Mandi, passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan190902&label=Profile%20views&color=0e75b6&style=flat" alt="aryan190902" /> </p>
+# Hi there! I'm Aryan Apte 👋
 
-- 🔭 I’m currently working on **Software/Web Development**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Blockchain**
+I'm a **Full Stack Web Developer** passionate about building scalable and efficient applications. I specialize in **TypeScript, JavaScript, PostgreSQL, MongoDB, Prisma ORM, ReactJS, NextJS, ExpressJS, and NodeJS**. With hands-on experience in **MERN stack** and modern web technologies, I love crafting user-friendly and high-performance applications.
 
-- 💬 Ask me about **Data Structures, Python, C++, JS**
+🎓 **Education**: Graduated in Electrical Engineering from **IIT Mandi (2024)**
 
-- 📫 How to reach me **b20186@students.iitmandi.ac.in**
+💼 **Work Experience**:
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1t1f9wHGYG26CO6kI3_LW4_nHfFXjTtNO?usp=sharing)
+- **Full Stack Developer @ Willings Inc.**
+  - Developed and optimized a **notification system**, ensuring timely and efficient delivery of updates across the platform.
+  - Built a **quick interview feature**, streamlining candidate assessment processes and improving recruiter efficiency.
+  - Worked with **React, Node.js, Express, and PostgreSQL** to enhance system performance and scalability.
+  - Collaborated closely with cross-functional teams to design and implement new backend functionalities.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-apte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-apte" height="30" width="40" /></a>
-</p>
+## 💻 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### 🎵 [AryanMusic](https://aryanmusic.co.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan190902&show_icons=true&locale=en&layout=compact" alt="aryan190902" /></p>
+- E-commerce web application for music products
+- RESTful APIs for authentication, product & cart management
+- Admin dashboard for efficient content management
+- Integrated **Cloudinary** for media storage
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan190902&show_icons=true&locale=en" alt="aryan190902" /></p>  -->
+### 🍔 [CuisineConnect](https://github.com/Aryan190902/CuisineConnect)
+
+- A fully functional **food ordering system** with authentication and **PayPal payment integration**
+- RESTful APIs for food items, orders, and payments
+- **Leaflet Map** integration for accurate location tracking
+
+## 🎯 Goals
+
+- 📖 **Master System Design** for deeper understanding
+
+- 🔥 Stay up-to-date with **web development trends**
+
+## 📫 Connect with Me
+
+- **GitHub**: [github.com/Aryan190902](https://github.com/Aryan190902)
+- **LinkedIn**: [linkedin.com/in/aryan-apte](https://linkedin.com/in/aryan-apte)
+- **Email**: [aryanapte190902@gmail.com](mailto:aryanapte190902@gmail.com)
 
